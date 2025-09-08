@@ -1,6 +1,6 @@
 #1
 print(" Hello Enter your  name: ")
-print("aya")
+print("dog")
 #2
 print(" Hello Enter your adress: ")
 print("Amal, Givatayi")
