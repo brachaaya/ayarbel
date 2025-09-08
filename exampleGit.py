@@ -3,7 +3,7 @@ print(" Hello Enter your  name: ")
 print("aya")
 #2
 print(" Hello Enter your adress: ")
-print("Amal, Givatayim")
+print("Amal, Givatayi")
 
 
 """
